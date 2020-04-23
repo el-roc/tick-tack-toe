@@ -3,6 +3,9 @@
 
     Tic-Tac-Toe Game with Score Tracker 
 
+## Link to Live Project 
+https://el-roc.github.io/tick-tack-toe/
+
 ## Languages Used
 
     JavaScript HTML CSS
