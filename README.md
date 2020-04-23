@@ -1,4 +1,4 @@
-![Picture of TicTacToe Projet](/images/tictac.png)
+![Picture of TicTacToe Projet](tictac.png)
 #  Tic-Tac-Toe
 
     Tic-Tac-Toe Game with Score Tracker 
